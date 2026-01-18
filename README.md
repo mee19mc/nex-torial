@@ -4,16 +4,16 @@
 
 #
 
-TWO-TORIAL, a compendium of information and guides about arcade games. It also serves as a comprehensive resource, providing a structured approach to setting up arcade games from specific franchises. This guide aims to offer clear instructions, troubleshooting tips, and essential information for enthusiasts and newcomers alike.
+NEX-TORIAL, a successor to TWO-TORIAL, is a modified compendium of information and guides about everything arcade games. It also serves as a comprehensive resource, providing a structured approach to setting up arcade games from specific franchises. This guide aims to offer clear instructions, troubleshooting tips, and essential information for enthusiasts and newcomers alike.
 
 <https://two-torial.maimaidxprism.plus/>
 
-> [!CAUTION]
-> **This is a mirror of the original TWO-TORIAL website. Read more info about this mirror [here](https://two-torial-info.maimaidxprism.plus/)**
+> [Note:]
+> **This is a mirror of the original TWO-TORIAL website.** Read more info about this mirror [here](https://two-torial-info.maimaidxprism.plus/)
 
 ## About
 
-This repository houses a guide dedicated to assisting individuals in configuring and navigating the setup process for various arcade games within this specific gaming genre. It covers essential aspects of installation, configuration, and troubleshooting, aiming to streamline the experience for users.
+This repository houses a guide dedicated to assisting individuals in configuring and navigating the setup (and probably gameplay) process for various arcade games within this specific gaming genre. It covers essential aspects of installation, configuration, and troubleshooting, aiming to streamline the experience for users.
 
 ## Contributing
 
@@ -33,7 +33,7 @@ For quick local iteration, you can setup your own [mkdocs](https://www.mkdocs.or
 4. You can also add `--dirty` at the end of the above command to speed up live reloads, but rendering errors could occur
 
 You can now access your live preview at `http://127.0.0.1:8000/`  
-The live preview will update in real time as changes are found in your files.
+The live preview will update in real time as changes are found in your files. Make sure to save the file for canges to be displayed!
 
 ## License
 
@@ -41,8 +41,8 @@ TWO-TORIAL is licensed under the Apache License 2.0. You can find the full text 
 
 ## Additional Notes
 
-The TWO-TORIAL team does not provide any tools to circumvent software copy protection, nor distribute any copyright-protected game data.
+The NEX-TORIAL Team, and the original author (TWO-TORIAL team) does not provide any tools to circumvent software copy protection, nor distribute any copyright-protected game data.
 
-Documentation plays a crucial role in fostering understanding and accessibility within any domain. Detailed guides not only facilitate smoother experiences but also encourage the growth of communities by empowering individuals to engage more deeply. By documenting the intricacies of setup and configuration, this guide aims to support users in their journey through the realm of rhythm gaming.
+Documentation plays a crucial role in fostering understanding and accessibility within any domain. Detailed guides not only facilitate smoother experiences but also encourage the growth of communities by empowering individuals to engage more deeply. By documenting the intricacies of setup and configuration, this guide aims to support users in their journey through the realm of arcade gaming.
 
-Feel free to tailor or modify this template according to your preferences or specific content requirements for the repository.
+Feel free to tailor or modify this template according to your preferences or specific content requirements for the repository!
