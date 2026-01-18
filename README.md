@@ -6,7 +6,7 @@
 
 NEX-TORIAL, a successor to TWO-TORIAL, is a modified compendium of information and guides about everything arcade games. It also serves as a comprehensive resource, providing a structured approach to setting up arcade games from specific franchises. This guide aims to offer clear instructions, troubleshooting tips, and essential information for enthusiasts and newcomers alike.
 
-<https://two-torial.maimaidxprism.plus/>
+link not available yet!
 
 > [Note:]
 > **This is a mirror of the original TWO-TORIAL website.** Read more info about this mirror [here](https://two-torial-info.maimaidxprism.plus/)
